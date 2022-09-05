@@ -1,6 +1,6 @@
-# VQGAN-CLIP Overview
+# VQGAN-CLIP Text to Video Overview
 
-A repo for running VQGAN+CLIP locally. This started out as a Katherine Crowson VQGAN+CLIP derived Google colab notebook.
+A repo for converting a source image sequence to another by reimagining it using the text provided with the help of VQGAN+CLIP . This repository is inspired and started from Katherine Crowson VQGAN+CLIP derived Google colab notebook.
 
 Environment:
 
