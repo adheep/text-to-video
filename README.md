@@ -2,19 +2,6 @@
 
 A repo for running VQGAN+CLIP locally. This started out as a Katherine Crowson VQGAN+CLIP derived Google colab notebook.
 
-<a href="https://replicate.ai/nerdyrodent/vqgan-clip"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=blue"></a>
-
-Original notebook: [![Open In Colab][colab-badge]][colab-notebook]
-
-[colab-notebook]: <https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ>
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-Some example images:
-
-<img src="./samples/Cartoon3.png" width="256px"></img><img src="./samples/Cartoon.png" width="256px"></img><img src="./samples/Cartoon2.png" width="256px"></img>
-<img src="./samples/Bedroom.png" width="256px"></img><img src="./samples/DemonBiscuits.png" width="256px"></img><img src="./samples/Football.png" width="256px"></img>
-<img src="./samples/Fractal_Landscape3.png" width="256px"></img><img src="./samples/Games_5.png" width="256px"></img>
-
 Environment:
 
 * Tested on Ubuntu 20.04
