@@ -2,6 +2,8 @@
 
 A repo for converting a source image sequence to another by reimagining it using the text provided with the help of VQGAN+CLIP . This repository is inspired and started from Katherine Crowson VQGAN+CLIP derived Google colab notebook.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ACw_72RCtwQ/0.jpg)](https://www.youtube.com/watch?v=ACw_72RCtwQ)
+
 Environment:
 
 * Tested on Ubuntu 20.04
